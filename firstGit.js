@@ -7,5 +7,5 @@ var third=" Git is free software under the GPL";
 var fifth="Git new banch";
 var sixth="Creating a new branch is quick & simple.";
 var seventh="Git remote access";
-var eighth="this is a new change"
-console.log(seventh)
+var eigth="this is a new change";
+console.log(seventh+eigth);
