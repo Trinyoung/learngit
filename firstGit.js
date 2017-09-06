@@ -5,5 +5,7 @@ var first="this a new file for git";
 var second="Git is a distributed version control system";
 var third=" Git is free software under the GPL";
 var fifth="Git new banch";
-var sixth="Creating a new branch is quick & simple."
+var sixth="Creating a new branch is quick & simple.";
+var seventh="Git remote access";
 var eighth="this is a new change"
+console.log(seventh)
