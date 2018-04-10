@@ -1,1 +1,1 @@
-var new ="this is a new git
+var newLiscense ="this is a new git"
